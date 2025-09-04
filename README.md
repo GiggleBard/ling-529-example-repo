@@ -1,1 +1,1 @@
-A more detailed greeting. Hello!# ling-529-example-repo
+A more detailed greeting. Hello!
